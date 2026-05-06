@@ -10,8 +10,6 @@ print(f"s1Word.capitalize(): {s1Word.capitalize()}")
 print(f"s1Word.title(): {s1Word.title()}")
 print(f"s1Word.swapcase(): {s1Word.swapcase()}\n") # <--- \n to separate sections
 
-
-
 s2Words = "hELlo WoRLD"
 print(f"s2Words original: {s2Words}\n")
 
@@ -20,8 +18,6 @@ print(f"s2Words.upper(): {s2Words.upper()}")
 print(f"s2Words.capitalize(): {s2Words.capitalize()}")
 print(f"s2Words.title(): {s2Words.title()}")
 print(f"s1Word.swapcase(): {s1Word.swapcase()}\n")
-
-
 
 # Here's a sample so you can try this
 sUserInput = input("Enter whatever string you'd like: ")
